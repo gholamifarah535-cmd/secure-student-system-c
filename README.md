@@ -16,4 +16,4 @@ Data is stored using files in C language.
 ## Notes
 Made for learning file handling, structures and basic system design in C.
 
-Author: Farah Gholami
+Author: Farrah Gholami
